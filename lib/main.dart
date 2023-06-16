@@ -25,15 +25,6 @@ class MyApp extends StatelessWidget {
         home: const MyHomePage(),
       ),
     );
-    // return MaterialApp(
-    //   title: 'Named Routes Demo',
-    //   initialRoute: '/',
-    //   routes: {
-    //     '/': (context) => AllVideo(),
-    //     '/my_favorite': (context) => MyFavorite(),
-    //     '/recent_play': (context) => RecentPlay(),
-    //   },
-    // );
   }
 }
 
